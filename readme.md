@@ -1,6 +1,6 @@
 # Projeto: Jogo do Dinossauro 🎮:crocodile:
 
-Projeto prático feito com a [DIO](https://web.dio.me/home) de um jogo da memória, feito para aprofundar a utilização do HTML, CSS e Javascript.
+Projeto prático feito com a [DIO](https://web.dio.me/home) de um jogo de dinossauro, feito para aprofundar a utilização do HTML, CSS e Javascript.
 
 ## Objetivo ✔️
 
@@ -15,4 +15,4 @@ Aprender na pratica como desenvolver um jogo de forma eficiente e interativo par
 
 ### Benefícios de se jogar jogo do Dinossauro⁉️
 
-Se divertir.
+Se divertir! :smile:
